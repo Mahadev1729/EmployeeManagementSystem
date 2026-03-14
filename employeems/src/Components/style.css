@@ -1,0 +1,15 @@
+﻿.loginPage {
+    background-image:
+        linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
+        url("./Images/background.png");
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.loginForm {
+    background: rgba(255, 255, 255, 0.15);
+    backdrop-filter: blur(10px);
+    color: white;
+}
